@@ -1,0 +1,9 @@
+# Ignore large files temporarily
+*.mp4
+*.zip
+*.psd
+*.bin
+*.csv
+*.pkl
+*.h5
+large_data/
